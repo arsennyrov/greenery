@@ -1,0 +1,9 @@
+            <svg width="195" height="140" viewBox="0 0 195 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M143 16L138 12L143 8" stroke="#E9F4F6" stroke-width="2" />
+              <path d="M138.435 12H191V135" stroke="#E9F4F6" stroke-width="2" />
+              <text fill="#4E6E77" xml:space="preserve" style="white-space: pre" font-family="Dosis" font-size="16"
+                font-weight="500" letter-spacing="0.045em">
+              </text>
+              <circle cx="191" cy="136" r="4" fill="white" />
+              <circle cx="191" cy="136" r="2" fill="#71B3C6" />
+            </svg>
