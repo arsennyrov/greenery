@@ -417,6 +417,7 @@ h1 {
   border-radius: 3px;
   border: 1px solid #70B0C0;
   box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
 }
 
 .product__btn-item img{
